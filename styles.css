@@ -1,0 +1,202 @@
+
+#title {
+  color: #ff8c1a;
+  margin-bottom: -20px;
+  padding-top: 20px;
+  font-size: 50px;
+}
+
+ body {
+    font-family: "Lato", sans-serif;
+    background-color:#fffcf1;
+  }
+
+#motto {
+  padding-bottom: 20px;
+  color: #00bfff;
+}
+
+.navigation {
+  background-color: #ff8c1a;
+  overflow:hidden;
+}
+
+a {
+  color:white;
+  text-align:center;
+  font-size: 20px;
+  padding: 40px 10px;
+  text-decoration: none;
+}
+
+.tabs:hover {
+  background-color: #ffa500;
+}
+
+/*.navigation a.active {
+  background-color: #00bfff;
+}*/
+
+
+.pageheader{
+ color:#00bfff;
+ font-size: 60px;
+}
+
+#abouttext{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2%;
+  padding-top: 1%;
+  line-height: 2;
+  border-top:2px solid #cbeaff;
+  /*border-radius: 25px;*/
+  margin-bottom:60px;
+
+}
+
+#processtext {
+  font-size:35px;
+  margin-top: 10%;
+  color:#00ace6;
+  margin-bottom: -10px;
+}
+
+.instructions {
+  text-align:center;
+}
+
+.steps {
+  text-align:center;
+}
+
+.instructions {
+  margin-top: 50px;
+}
+
+#box {
+  max-width:50%;
+  max-height:50%;
+  border-left:4px solid #cbeaff;
+  border-right: 4px solid #cbeaff;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+#buyaboxbtn {
+  background-color:#00ace6;
+  color:white;
+  font-size:20px;
+  border: #00ace6;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 5px;
+  max-height
+}
+
+#homeimg {
+  max-width:50%;
+  max-height:50%;
+}
+
+#buyaboxbtn:hover {
+  background-color: #00bfff;
+}
+
+.covidbody {
+  text-align:center;
+}
+
+#covidheader {
+  color:#ff8c1a;
+  margin-top:-20px;
+}
+
+#covidchart {
+    max-width:70%;
+  max-height:70%;
+}
+
+#citedsource {
+  font-size:10px;
+}
+
+#donatebutton {
+  font-size: 35px;
+  background-color: #00bfff;
+  border-color: #00bfff;
+  border-radius: 8px;
+  color: white;
+}
+
+#prezibtn {
+  font-size: 25px;
+  background-color: #00bfff;
+  border-color: #00bfff;
+  border-radius: 8px;
+  color: white;
+   margin-bottom:60px;
+}
+
+.learnheader {
+  border-bottom: 2px solid #cbeaff;
+  margin-left: 40%;
+  margin-right: 40%;
+  padding-bottom:20px;
+}
+
+#boxcontents {
+  font-size:35px;
+  margin-top: 10%;
+  color:#00ace6;
+  margin-bottom: -10px;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  height: 300px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.row {
+  margin-bottom: 60px;
+}
+
+#instabtn {
+  font-size: 25px;
+  background-color: #00bfff;
+  border-color: #00bfff;
+  border-radius: 8px;
+  color: white;
+}
+
+#emailbtn {
+  font-size: 25px;
+  background-color: #00bfff;
+  border-color: #00bfff;
+  border-radius: 8px;
+  color: white;
+  margin-bottom: 60px;
+}
+
+#inspiration {
+   margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2%;
+  padding-top: 1%;
+  line-height: 2;
+  margin-bottom:60px;
+}
+
+.team {
+  /*width: 100%;
+  height:850px;*/
+max-width: 95%;
+max-height: 95%;
+}
